@@ -1,0 +1,1 @@
+Command: launch GrepProcess test text.txt output.txt
